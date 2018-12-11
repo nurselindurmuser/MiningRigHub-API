@@ -1,0 +1,273 @@
+C:\Users\PC\source\repos\Coin\Coin\bin\ApplicationInsights.config
+C:\Users\PC\source\repos\Coin\Coin\bin\Coin.dll.config
+C:\Users\PC\source\repos\Coin\Coin\bin\Coin.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Coin.pdb
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\csc.exe
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\csc.exe.config
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\csc.rsp
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\csi.exe
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\csi.exe.config
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\csi.rsp
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.AppContext.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Console.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\vbc.exe
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\vbc.exe.config
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\vbc.rsp
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\source\repos\Coin\Coin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\source\repos\Coin\Coin\bin\Antlr3.Runtime.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AI.Web.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.Helpers.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.Mvc.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.Optimization.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.Razor.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.WebPages.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\WebGrease.dll
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.Helpers.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.Mvc.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.Optimization.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.Razor.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.WebPages.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\Antlr3.Runtime.pdb
+C:\Users\PC\source\repos\Coin\Coin\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.AI.Web.xml
+C:\Users\PC\source\repos\Coin\Coin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\source\repos\Coin\Coin\obj\Debug\Coin.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Coin\Coin\obj\Debug\Coin.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Coin\Coin\obj\Debug\Coin.csproj.CopyComplete
+C:\Users\PC\source\repos\Coin\Coin\obj\Debug\Coin.dll
+C:\Users\PC\source\repos\Coin\Coin\obj\Debug\Coin.pdb
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\ApplicationInsights.config
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Coin.dll.config
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Coin.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Coin.pdb
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\csc.exe
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\csc.exe.config
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\csc.rsp
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\csi.exe
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\csi.exe.config
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\csi.rsp
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.AppContext.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Console.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\vbc.exe
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\vbc.exe.config
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\vbc.rsp
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Antlr3.Runtime.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AI.Web.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.Helpers.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.Mvc.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.Optimization.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.Razor.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.WebPages.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\WebGrease.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.Helpers.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.Mvc.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.Optimization.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.Razor.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.WebPages.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Antlr3.Runtime.pdb
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.AI.Web.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\source\repos\Coin - Kopya\Coin\obj\Debug\Coin.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Coin - Kopya\Coin\obj\Debug\Coin.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Coin - Kopya\Coin\obj\Debug\Coin.csproj.CopyComplete
+C:\Users\PC\source\repos\Coin - Kopya\Coin\obj\Debug\Coin.dll
+C:\Users\PC\source\repos\Coin - Kopya\Coin\obj\Debug\Coin.pdb
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\ApplicationInsights.config
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Coin.dll.config
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Coin.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Coin.pdb
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\csc.exe
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\csc.exe.config
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\csc.rsp
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\csi.exe
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\csi.exe.config
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\csi.rsp
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.AppContext.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Console.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.IO.Compression.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Security.Claims.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.ValueTuple.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\vbc.exe
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\vbc.exe.config
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\vbc.rsp
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\VBCSCompiler.exe
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Antlr3.Runtime.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AI.Web.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Newtonsoft.Json.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.Helpers.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.Mvc.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.Optimization.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.Razor.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.WebPages.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.WebPages.Razor.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\WebGrease.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.Helpers.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.Mvc.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.Optimization.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.Razor.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.WebPages.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Web.WebPages.Razor.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Newtonsoft.Json.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Antlr3.Runtime.pdb
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.AI.Web.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\obj\Debug\Coin.csprojAssemblyReference.cache
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\obj\Debug\Coin.csproj.CoreCompileInputs.cache
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\obj\Debug\Coin.csproj.CopyComplete
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\obj\Debug\Coin.dll
+C:\Users\crp\Desktop\MiningRigHub-API-master\Coin\obj\Debug\Coin.pdb
